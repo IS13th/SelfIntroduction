@@ -1,0 +1,18 @@
+body {
+      background: #e3de7f
+}
+#app {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+}
+#fun {
+      padding: 0.5em 1em;
+      margin: 1em 0;
+      font-weight: bold;
+      border-radius: 10px;
+      color: #FF2500;
+      border: solid 3px #FF2500;
+      text-align: left;
+}
